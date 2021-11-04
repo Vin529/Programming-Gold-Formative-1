@@ -2,11 +2,20 @@ body {
     background-color: #c4cccc;
 }
 
-.image12 {
-    max-width: 30%;
-    height: auto;
+.flex-container {
+    display: flex;
+  }
+
+.largeimg {
+    max-width: 60%;
+}
+  
+.menuimgs {
+    flex-direction: column;
+    max-width: 40%;
 }
 
+.menuimgs a {
+    class="ripple"
+}
 
-
-  
