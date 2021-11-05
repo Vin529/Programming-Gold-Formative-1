@@ -1,5 +1,6 @@
 body {
     background-color: #c4cccc;
+    font-family: Verdana, sans-serif;
 }
 
 .flex-container {
@@ -15,7 +16,7 @@ body {
     max-width: 40%;
 }
 
-.menuimgs a {
-    class="ripple"
+.shadow:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0,   0.19);
 }
 
